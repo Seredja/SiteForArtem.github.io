@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	margin: 0;
+	padding-bottom: 30px;
+}
+canvas {
+	height: 500px;
+	width: 1000px;
+	border: 2px solid black;
+}
+input {
+	width: 1000px;
+	margin: 20px auto;
+	font-size: 20px;
+  outline: 0;
+ }
+ canvas#myCanvas3 {
+ 	height:1000px;
+ }
